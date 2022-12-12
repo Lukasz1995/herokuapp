@@ -15,7 +15,7 @@
     "deep-parse-json": "^1.0.1",
     "ejs": "^3.0.1",
     "exec-local-bin": "^1.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.2",
